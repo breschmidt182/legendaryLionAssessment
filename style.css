@@ -1,0 +1,70 @@
+#hero {
+	width: 1876px;
+  height: 1054px;
+	background: url(./images/istockphoto-172311109-1024x1024.jpg), lightgray 50% / cover no-repeat;
+}
+
+#businessName {
+  width: 1191px;
+  height: 387px;
+	color: #FFF;
+	font-family: M PLUS 1 Code;
+	font-size: 96px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+#tagline {
+	width: 741px;
+	height: 141px;
+	color: #FFF;
+	text-align: center;
+	font-family: Luxurious Roman;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+#businessDescrip {
+	width: 1778px;
+	height: 417px;
+	color: #FFF;
+	text-align: center;
+	font-family: Luxurious Roman;
+	font-size: 96px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+#serviceTitle {
+	width: 682px;
+	height: 172px;
+	color: #FFF;
+	text-align: center;
+	font-family: M PLUS 1 Code;
+	font-size: 96px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+#services {
+	width: 1002px;
+	height: 822px;
+	color: #FFF;
+	text-align: center;
+	font-family: Luxurious Roman;
+	font-size: 96px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+#serviceSidePic {
+	width: 733px;
+	height: 1012px;
+	background: url(./images/pexels-burak-başgöze-17057299.jpg), lightgray 50% / cover no-repeat;
+}
