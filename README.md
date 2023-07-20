@@ -5,7 +5,7 @@ The goal of this project was to create a simple design for the hero and service 
 Welcome to Tim's Northern Michigan Fishing Charters – your gateway to unforgettable fishing adventures on Lake Michigan! We specialize in creating cherished memories for families, corporate events, and friend groups. Our charters are designed to ensure every participant experiences the thrill of catching fish and capturing those perfect moments on camera. Whether you opt for a full day or half day excursion, our seasoned guides will make sure your time with us is filled with joy and excitement.
 
 # Featured Hero Section
-images\hero.png
+(images/hero.png)
 
 Unleash the Thrill of Fishing in Northern Michigan!
 
